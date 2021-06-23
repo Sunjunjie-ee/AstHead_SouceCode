@@ -17,9 +17,9 @@ This is the source code of a game demo named <AstHead> and all the materials.
  
  | **Scene**|**Picture** |**Main Functions**|
  | --------------|:--------------: | :--------------:|
- | Menu Scene|[image1](https://github.com/YukinoKyoU/AstHead_SouceCode/raw/main/Sample/Scene/Menu.png) |Click the "Play" button to start|
- | Main Scene|[image2](https://github.com/YukinoKyoU/AstHead_SouceCode/raw/main/Sample/Scene/Main.jpg)|Press "ESC" to pause|
- | Over Scene|[image3](https://github.com/YukinoKyoU/AstHead_SouceCode/raw/main/Sample/Scene/Over.jpg)|Click "Replay" to replay, or "Menu" to return to the main menu|
+ | Menu Scene|[image1](https://github.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Menu.png) |Click the "Play" button to start|
+ | Main Scene|[image2](https://github.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Main.jpg)|Press "ESC" to pause|
+ | Over Scene|[image3](https://github.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Over.jpg)|Click "Replay" to replay, or "Menu" to return to the main menu|
  
  ***
  ## How to play
