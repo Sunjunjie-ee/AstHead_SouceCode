@@ -49,6 +49,9 @@ This is the source code of a game demo named <AstHead> and all the materials.
  | Assualt|[image2](https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Assualt.png)|Fast Firing Speed|
  | Shotgun|[image2](https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Shotgun.png)|Powerful, Scatter|
  
+ 
+ Game demo video URL：https://www.bilibili.com/video/BV1QB4y1K71b/
+ 
  ***
  ## Script
  - GameController.cs : A single instance of Game is used to control the global game. Including player life values, scene switching control, etc.
