@@ -38,16 +38,16 @@ This is the source code of a game demo named <AstHead> and all the materials.
  
  | **Monster**|**Picture**|**Attack Way**|
  | --------------|:--------------: | :--------------:|
- | **Green Monster**|[image1](./Sample/Monster/Monster1.png) |Melee attack monster|
- | **Vurple  Monster**|[image2](./Sample/Scene/Main.png)|Fire a tracking bullet|
+ | **Green Monster**|[image1](https://github.com/YukinoKyoU/AstHead_SouceCode/tree/main/Sample/Monster/Monster1.png) |Melee attack monster|
+ | **Vurple  Monster**|[image2](https://github.com/YukinoKyoU/AstHead_SouceCode/tree/main/Sample/Scene/Main.png)|Fire a tracking bullet|
  
  ### Weapon
  
  | **Weapon**|**Picture**|**Attack Way**|
  | --------------|:--------------: | :--------------:|
- | Pistol|[image1](./Sample/Weapon/Pistol.png) |Primary Weapon|
- | Assualt|[image2](./Sample/Weapon/Assualt.png)|Fast Firing Speed|
- | Shotgun|[image2](./Sample/Weapon/Shotgun.png)|Powerful, Scatter|
+ | Pistol|[image1](https://github.com/YukinoKyoU/AstHead_SouceCode/tree/main/Sample/Weapon/Pistol.png) |Primary Weapon|
+ | Assualt|[image2](https://github.com/YukinoKyoU/AstHead_SouceCode/tree/main/Sample/Weapon/Assualt.png)|Fast Firing Speed|
+ | Shotgun|[image2](https://github.com/YukinoKyoU/AstHead_SouceCode/tree/main/Sample/Weapon/Shotgun.png)|Powerful, Scatter|
  
  ***
  ## Script
