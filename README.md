@@ -17,9 +17,9 @@ This is the source code of a game demo named <AstHead> and all the materials.
  
  | **Scene**|**Picture** |**Main Functions**|
  | --------------|:--------------: | :--------------:|
- | Menu Scene|![image1](https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Menu.png) |Click the "Play" button to start|
- | Main Scene|![image2](https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Main.jpg)|Press "ESC" to pause|
- | Over Scene|![image3](https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Over.jpg)|Click "Replay" to replay, or "Menu" to return to the main menu|
+ | Menu Scene|<img width="200" height="100" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Menu.png"/>|Click the "Play" button to start|
+ | Main Scene|<img width="200" height="100" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Main.jpg"/>|Press "ESC" to pause|
+ | Over Scene|<img width="200" height="100" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Over.jpg"/>|Click "Replay" to replay, or "Menu" to return to the main menu|
  
  ***
  ## How to play
@@ -38,16 +38,16 @@ This is the source code of a game demo named <AstHead> and all the materials.
  
  | **Monster**|**Picture**|**Attack Way**|
  | --------------|:--------------: | :--------------:|
- | **Green Monster**|[image1](https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Monster/Monster1.png) |Melee attack monster|
- | **Vurple  Monster**|[image2](https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Monster/Monster2.png)|Fire a tracking bullet|
+ | **Green Monster**|<img width="100" height="50" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Monster/Monster1.png"/>|Melee attack monster|
+ | **Vurple  Monster**|<img width="100" height="50" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Monster/Monster2.png"/>|Fire a tracking bullet|
  
  ### Weapon
  
  | **Weapon**|**Picture**|**Attack Way**|
  | --------------|:--------------: | :--------------:|
  | Pistol|<img width="100" height="50" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Pistol.png"/>|Primary Weapon|
- | Assualt|[image2](https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Assualt.png)|Fast Firing Speed|
- | Shotgun|[image2](https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Shotgun.png)|Powerful, Scatter|
+ | Assualt|<img width="100" height="50" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Assualt.png"/>|Fast Firing Speed|
+ | Shotgun|<img width="100" height="50" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Shotgun.png"/>|Powerful, Scatter|
  
  
  Game demo video URL：https://www.bilibili.com/video/BV1QB4y1K71b/
