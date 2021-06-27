@@ -45,7 +45,7 @@ This is the source code of a game demo named <AstHead> and all the materials.
  
  | **Weapon**|**Picture**|**Attack Way**|
  | --------------|:--------------: | :--------------:|
- | Pistol|<img width="150" height="150" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Pistol.png"/>) |Primary Weapon|
+ | Pistol|<img width="100" height="50" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Pistol.png"/>|Primary Weapon|
  | Assualt|[image2](https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Assualt.png)|Fast Firing Speed|
  | Shotgun|[image2](https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Shotgun.png)|Powerful, Scatter|
  
