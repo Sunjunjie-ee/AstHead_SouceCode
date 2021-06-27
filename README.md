@@ -17,9 +17,9 @@ This is the source code of a game demo named <AstHead> and all the materials.
  
  | **Scene**|**Picture** |**Main Functions**|
  | --------------|:--------------: | :--------------:|
- | Menu Scene|<img width="200" height="150" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Menu.png"/>|Click the "Play" button to start|
- | Main Scene|<img width="200" height="150" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Main.jpg"/>|Press "ESC" to pause|
- | Over Scene|<img width="200" height="150" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Over.jpg"/>|Click "Replay" to replay, or "Menu" to return to the main menu|
+ | Menu Scene|<img width="320" height="180" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Menu.png"/>|Click the "Play" button to start|
+ | Main Scene|<img width="320" height="180" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Main.jpg"/>|Press "ESC" to pause|
+ | Over Scene|<img width="320" height="180" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Scene/Over.jpg"/>|Click "Replay" to replay, or "Menu" to return to the main menu|
  
  ***
  ## How to play
@@ -45,9 +45,9 @@ This is the source code of a game demo named <AstHead> and all the materials.
  
  | **Weapon**|**Picture**|**Attack Way**|
  | --------------|:--------------: | :--------------:|
- | Pistol|<img width="100" height="80" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Pistol.png"/>|Primary Weapon|
- | Assualt|<img width="100" height="80" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Assualt.png"/>|Fast Firing Speed|
- | Shotgun|<img width="100" height="80" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Shotgun.png"/>|Powerful, Scatter|
+ | Pistol|<img width="100" height="60" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Pistol.png"/>|Primary Weapon|
+ | Assualt|<img width="100" height="60" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Assualt.png"/>|Fast Firing Speed|
+ | Shotgun|<img width="100" height="60" src="https://raw.githubusercontent.com/YukinoKyoU/AstHead_SouceCode/main/Sample/Weapon/Shotgun.png"/>|Powerful, Scatter|
  
  
  Game demo video URL：https://www.bilibili.com/video/BV1QB4y1K71b/
